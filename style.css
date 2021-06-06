@@ -43,7 +43,7 @@ button{
 }
 
 #quoteBtn:hover{
-    background-color: green;
+    background-color:#007ACC;
 }
 #quote{
     font-weight: bold;
